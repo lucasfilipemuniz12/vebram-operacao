@@ -1,0 +1,9 @@
+# Nunca versionar dados ou credenciais
+.env
+*.env
+*.xlsx
+*.xls
+*.csv
+*.pdf
+leads/
+.DS_Store
