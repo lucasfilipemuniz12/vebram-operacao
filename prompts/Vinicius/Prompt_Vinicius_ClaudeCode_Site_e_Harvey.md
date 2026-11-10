@@ -31,7 +31,7 @@ Para o Lucas decidir (não fazer sozinho): e-mail com domínio próprio no lugar
 Repositório: https://github.com/ethanplusai/sellbird
 1. **Estudo (antes de instalar)**: leia o README e o código. Me entregue: requisitos no Mac, se funciona com o plano Claude Pro, custos extras (APIs pagas), o que ele acessa e envia para fora, e como desligar qualquer envio automático.
 2. **Teste (só com OK)**: 30 empresas reais de BH e Itabira (escritórios de arquitetura, pequenas construtoras, imobiliárias). **Nenhum envio de e-mail ou mensagem.** Só pesquisa e preparo.
-3. **Saída**: CSV com Empresa | Segmento | Cidade | Site | Contato profissional | Fonte (URL) | Serviço potencial | Prioridade A/B/C | Motivo. Esse CSV vai para a planilha comercial e para o Arthur e o Veredas, nunca para o GitHub.
+3. **Saída**: CSV com Empresa | Segmento | Cidade | Site | Contato profissional | Fonte (URL) | Serviço potencial | Prioridade A/B/C | Motivo. Esse CSV vai para a planilha comercial e para o Arthur, o João e o Lucas, nunca para o GitHub.
 4. **Relatório da S2**: vale a pena? Qualidade dos leads, tempo gasto, custo, problemas. Se não servir para engenharia e arquitetura, proponha o plano B: Claude + Google Maps + sites + planilha.
 
 # Formato
@@ -50,10 +50,9 @@ Diff e resumo de 3 linhas por mudança. Relatórios em Markdown curto.
 - Caminho de venda: lista de empresas → mensagem curta e personalizada (WhatsApp comercial ou LinkedIn funcionam melhor que e-mail) → follow-up em 4 dias → call de 20 min com o Lucas → proposta em até 48 h → fechamento.
 
 ## Equipe
-- Lucas: gestor, aprova mensagens, propostas e preços, conduz reuniões com clientes. Usa Claude e ChatGPT.
-- João: plugin (com o Lucas) e estudos arquitetônicos para o portfólio. Usa Claude.
+- Lucas: gestor, aprova mensagens, propostas e preços, conduz reuniões com clientes e cuida da parceria com imobiliárias e corretores. Usa Claude e ChatGPT.
+- João: plugin (com o Lucas), contatos com escritórios de arquitetura e estudos para o portfólio. Usa Claude.
 - Vinícius: site e conteúdo (posts e vídeos) e teste do Harvey/Sellbird. Usa Claude Code (site e Harvey), Claude (textos de posts e vídeos) e ChatGPT (imagens), em um MacBook sem Revit.
-- Veredas: prospecção de escritórios de arquitetura e imobiliárias, parcerias. Usa Claude.
 - Arthur: engenheiro civil (estruturas), capta leads e contata construtoras. Usa ChatGPT.
 Cada pessoa tem até ~10 h por semana (Lucas e João, um pouco mais). Proponha sempre o caminho que dá menos trabalho manual: você faz o rascunho, a pessoa revisa e decide.
 

@@ -36,10 +36,9 @@ A imagem pronta primeiro. Depois, no máximo 3 linhas com o que foi feito e a le
 - Caminho de venda: lista de empresas → mensagem curta e personalizada (WhatsApp comercial ou LinkedIn funcionam melhor que e-mail) → follow-up em 4 dias → call de 20 min com o Lucas → proposta em até 48 h → fechamento.
 
 ## Equipe
-- Lucas: gestor, aprova mensagens, propostas e preços, conduz reuniões com clientes. Usa Claude e ChatGPT.
-- João: plugin (com o Lucas) e estudos arquitetônicos para o portfólio. Usa Claude.
+- Lucas: gestor, aprova mensagens, propostas e preços, conduz reuniões com clientes e cuida da parceria com imobiliárias e corretores. Usa Claude e ChatGPT.
+- João: plugin (com o Lucas), contatos com escritórios de arquitetura e estudos para o portfólio. Usa Claude.
 - Vinícius: site e conteúdo (posts e vídeos) e teste do Harvey/Sellbird. Usa Claude Code (site e Harvey), Claude (textos de posts e vídeos) e ChatGPT (imagens), em um MacBook sem Revit.
-- Veredas: prospecção de escritórios de arquitetura e imobiliárias, parcerias. Usa Claude.
 - Arthur: engenheiro civil (estruturas), capta leads e contata construtoras. Usa ChatGPT.
 Cada pessoa tem até ~10 h por semana (Lucas e João, um pouco mais). Proponha sempre o caminho que dá menos trabalho manual: você faz o rascunho, a pessoa revisa e decide.
 

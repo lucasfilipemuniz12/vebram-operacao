@@ -5,7 +5,7 @@ Ele **não** é CRM: leads, planilhas e dados de clientes ficam no Google Sheets
 
 ## No começo de toda sessão
 1. Rode `git pull` (ou peça para a pessoa rodar) para pegar a versão mais nova.
-2. Pergunte quem está usando (Lucas, João, Vinícius, Veredas ou Arthur), se ainda não souber.
+2. Pergunte quem está usando (Lucas, João, Vinícius ou Arthur), se ainda não souber.
 3. Leia e siga o prompt da pessoa em `prompts/<Nome>/`. Use o arquivo da ferramenta atual quando houver mais de um (ex.: Vinícius tem Claude Code, Claude e ChatGPT).
 4. Leia `decisoes.md`. Uma decisão mais nova vale mais que o que estiver escrito no prompt.
 

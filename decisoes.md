@@ -2,6 +2,10 @@
 
 Mais nova em cima. Uma decisão daqui vale mais que o que estiver nos prompts.
 
+## 10/11/2026
+- O Veredas saiu da equipe. Os escritórios de arquitetura passam para o João, e as imobiliárias e corretores passam para o Lucas.
+- Metas novas: João com 10 contatos por semana no ritmo cheio (estudo de portfólio passa a ser quinzenal) e Lucas com 6 contatos com imobiliárias por semana, além dos estratégicos. A meta base de 6 contratos continua.
+
 ## 09/11/2026
 - Meta: 6 novos clientes pagantes até 31/12/2026 (base); 15 = excelente.
 - Foco no digital: 1) escritórios de arquitetura (terceirização de complementares), 2) pequenas construtoras, 3) imobiliárias e corretores, 4) donos de terreno.
